@@ -1,0 +1,2 @@
+Woot Linux is a project to make linux the most user friendly distro, with plenty of choices: Extreme- for Top of the line systems, Main- for the average user, and Mobile for older hardware or lower speced notebooks(netbooks, webbooks, sub-notebooks, etc.).
+It includes things like Wine out of the box, and has many custom packages, the main focuses are speed and performance. It uses the Gnome Desktop Enviroment.
